@@ -127,8 +127,8 @@ project-root/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/UCF-COP4710-UniversityEventMgmt.git
-cd UCF-COP4710-UniversityEventMgmt
+git clone https://github.com/alexneilgreen/UCF-DatabaseSystems-UniversityEventMgmt.git
+cd UCF-DatabaseSystems-UniversityEventMgmt
 
 # 2. Install dependencies
 npm install
